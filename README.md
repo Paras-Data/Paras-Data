@@ -189,6 +189,7 @@ Developed a cloud-native analytics pipeline for YouTube data.
 # 📫 Connect With Me
 
 💼 LinkedIn: https://www.linkedin.com/in/paras-data/
+
 📧 Email: officialparas24@gmail.com
 
 📊 Portfolio: Coming Soon
